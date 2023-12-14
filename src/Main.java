@@ -97,12 +97,11 @@ public class Main {
         System.out.println("three и one больше two.");
     } else {
         System.out.println("ура, вот это да, все значения равны! ");
-                            }
-                        }
-                    }
-
-                }
-            }
+        }
+        }
+        }
+        }
+        }
         }
 
 
